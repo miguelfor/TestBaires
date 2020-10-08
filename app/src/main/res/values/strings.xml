@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">TestApplication</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Test Miguel Forero</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Google</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="btn_toast">Toast</string>
+    <string name="btn_msn_toast">Toast</string>
+    <string name="btn_alert">Alert</string>
+    <string name="btn_msn_alert">Alert</string>
+    <string name="msn_alert_titulo">Titulo Alert</string>
+    <string name="btn_msn_aceptar">Aceptar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Loading -->
+    <string name="label.loading.tittle">Buscando</string>
+    <string name="label.loading.message">Espere por favor…</string>
+
+</resources>
